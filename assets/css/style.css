@@ -1,0 +1,76 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://fondosmil.com/fondo/12535.jpg);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1%;
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
+  width: 300px;
+  height: 500px;
+  border-radius: 5%;
+  color: #7b97b0;
+}
+
+.prod {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1%;
+
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
+
+  width: 250px;
+  height: 450px;
+  border-radius: 5%;
+  color: aliceblue;
+}
+
+.resumen1 {
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
+  border-radius: 5%;
+  width: 200px;
+  text-align: center;
+  margin-left: 50px;
+}
+
+.resumen2 {
+  display: flex;
+  justify-content: center;
+  width: 200px;
+}
+
+.image {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+}
+
+#input-2,
+#precio {
+  width: 177px;
+  height: 21px;
+  margin-top: 15px;
+}
+
+#color {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+#boton {
+  margin-top: 40px;
+  width: 150px;
+  border: 1px solid;
+  height: 25px;
+}
