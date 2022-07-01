@@ -2,19 +2,17 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(https://fondosmil.com/fondo/12535.jpg);
+  background-image: url(https://i.pinimg.com/originals/8d/d9/b0/8dd9b0aecfa1aae751e0b0873070e0ac.jpg);
 }
 
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 1%;
-  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
+  padding-top: 10%;
   width: 300px;
   height: 500px;
   border-radius: 5%;
-  color: #7b97b0;
 }
 
 .prod {
@@ -22,19 +20,17 @@ body {
   flex-direction: column;
   align-items: center;
   padding-top: 1%;
-
-  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
-
-  width: 250px;
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-abstracto-celeste_1077-3.jpg?t=st=1656629568~exp=1656630168~hmac=1ab75acf9ddf779aad05303a0ce62c1771a4ea8a6e33537fb32b53db9ce93d62&w=740);
+  width: 300px;
   height: 450px;
   border-radius: 5%;
-  color: aliceblue;
+  color: #546472;
 }
 
 .resumen1 {
   display: flex;
   flex-direction: column;
-  background-image: url(https://img.freepik.com/vector-gratis/fondo-tecnologia-circuito-alta-tecnologia-digital_29971-542.jpg);
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-abstracto-celeste_1077-3.jpg?t=st=1656629568~exp=1656630168~hmac=1ab75acf9ddf779aad05303a0ce62c1771a4ea8a6e33537fb32b53db9ce93d62&w=740);
   border-radius: 5%;
   width: 200px;
   text-align: center;
@@ -71,6 +67,9 @@ body {
 #boton {
   margin-top: 40px;
   width: 150px;
-  border: 1px solid;
+  border: 1.7px solid;
   height: 25px;
+  background-color:#028c8c;
+  border-radius: 20px ;
+  
 }
