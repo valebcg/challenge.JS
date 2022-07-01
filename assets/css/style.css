@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 1%;
+  padding-top: 10%;
   background-image: url(https://img.freepik.com/vector-gratis/fondo-abstracto-celeste_1077-3.jpg?t=st=1656629568~exp=1656630168~hmac=1ab75acf9ddf779aad05303a0ce62c1771a4ea8a6e33537fb32b53db9ce93d62&w=740);
   width: 300px;
   height: 450px;
