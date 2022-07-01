@@ -1,4 +1,4 @@
-document.getElementById("boton").addEventListener("click", function () {
+document.querySelector ("#boton").addEventListener("click", function () {
   var inputCantidad = document.querySelector("#input-1").value;
   var inputColor = document.querySelector("#input-2").value;
   var price = document.querySelector("#precio").value;
